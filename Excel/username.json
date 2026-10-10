@@ -1,0 +1,21 @@
+[
+    { "username": "pawan",        "tableName": "Analog_7",  "inverterCount": 9 },
+    { "username": "jainam",       "tableName": "Analog_5",  "inverterCount": 1 },
+    { "username": "agrawal",      "tableName": "Analog_6",  "inverterCount": 5 },
+    { "username": "parihar",      "tableName": "Analog_11", "inverterCount": 5 },
+    { "username": "ramapower",    "tableName": "Analog_12", "inverterCount": 2 },
+    { "username": "haryana",      "tableName": "Analog_9",  "inverterCount": 7 },
+    { "username": "kamalsol", "tableName": "Analog_10", "inverterCount": 5 },
+    { "username": "mahavir",      "tableName": "Analog_8",  "inverterCount": 5 },
+    { "username": "pragati",      "tableName": "Analog_2",  "inverterCount": 20 },
+    { "username": "omkamal",      "tableName": "Analog_1",  "inverterCount": 3 },
+    { "username": "ssispat",      "tableName": "Analog_4",  "inverterCount": 8 },
+    { "username": "apr",          "tableName": "Analog_3",  "inverterCount": 7 },
+    { "username": "supl",         "tableName": "Analog_13",  "inverterCount": 10 },
+    { "username": "vpst",         "tableName": "Analog_14",  "inverterCount": 5 },
+    { "username": "sbt",          "tableName": "Analog_15",  "inverterCount": 7 },
+    { "username": "CSPPL",       "tableName": "Analog_16",  "inverterCount": 9 },
+    { "username": "ABIS_U2",       "tableName": "Analog_17",  "inverterCount": 4 },
+    { "username": "HKPL",       "tableName": "Analog_18",  "inverterCount": 1 },
+    { "username": "PSPL",       "tableName": "Analog_19",  "inverterCount": 5 }
+  ]
